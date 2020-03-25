@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PDO</title>
+	<title>TU MARKA</title>
 	<link rel="stylesheet" type="text/css" href="librerias/bootstrap4/bootstrap.min.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 	<meta charset="utf-8">
@@ -14,13 +14,13 @@
 
 	<div class="container">
 		<div class="row">
-			<h2>Crud con PDO y MySQL</h2>
+			<h2>PLANILLA DE EMPLEADOS</h2>
 			<div class="col-sm-12">
 				<div class="card text-left">
 					<div class="card-header">
 						<ul class="nav nav-tabs card-header-tabs">
 							<li class="nav-item">
-								<a class="nav-link active" href="#">Crud PDO</a>
+								<a class="nav-link active" href="#">TU MARKA</a>
 							</li>
 						</ul>
 					</div>
